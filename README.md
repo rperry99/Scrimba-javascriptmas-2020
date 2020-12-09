@@ -16,3 +16,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 7** | Count Vowel Consonant [My Solution](https://scrimba.com/learn/adventcalendar/note-at-0-55-co94543c7a54c26746027f397)
 
 **Day 8** | Roll the Dice [My Solution](https://scrimba.com/scrim/co3a743adbc7ed0b01b28f9e0)
+
+**Day 9** | Sum Off Fibonacci Numbers [My Solution](https://scrimba.com/scrim/co7644dcebcf935939a62c2a2)
