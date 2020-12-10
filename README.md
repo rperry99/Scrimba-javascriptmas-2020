@@ -18,3 +18,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 8** | Roll the Dice [My Solution](https://scrimba.com/scrim/co3a743adbc7ed0b01b28f9e0)
 
 **Day 9** | Sum Off Fibonacci Numbers [My Solution](https://scrimba.com/scrim/co7644dcebcf935939a62c2a2)
+
+**Day 10** | Adjacent Element Products [My Solution](https://scrimba.com/scrim/co75348559f896a45696a4920)
