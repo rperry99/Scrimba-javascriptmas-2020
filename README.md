@@ -22,3 +22,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 10** | Adjacent Element Products [My Solution](https://scrimba.com/scrim/co75348559f896a45696a4920)
 
 **Day 11** | Avoid the Obstacles [My Solution](https://scrimba.com/scrim/cof424a98a318a302accb996c)
+
+**Day 12** | Valid Time [My Solution](https://scrimba.com/scrim/co2f8429d9889df1875934831)
