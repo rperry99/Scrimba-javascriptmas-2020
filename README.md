@@ -26,3 +26,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 12** | Valid Time [My Solution](https://scrimba.com/scrim/co2f8429d9889df1875934831)
 
 **Day 13** | Remove Every Kth element [My Solution](https://t.co/ndSLbXKBSC?amp=1)
+
+**Day 14** | Maximum Adjacent Difference [My Solution](https://scrimba.com/scrim/co1674975a6bacb32e1680618)
