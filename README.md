@@ -28,3 +28,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 13** | Remove Every Kth element [My Solution](https://t.co/ndSLbXKBSC?amp=1)
 
 **Day 14** | Maximum Adjacent Difference [My Solution](https://scrimba.com/scrim/co1674975a6bacb32e1680618)
+
+**Day 15** | JavaScript Carousel [My Solution](https://scrimba.com/scrim/coff9458c81274d1f36cb6a3c)
