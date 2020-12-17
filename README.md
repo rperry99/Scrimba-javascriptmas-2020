@@ -32,3 +32,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 15** | JavaScript Carousel [My Solution](https://scrimba.com/scrim/coff9458c81274d1f36cb6a3c)
 
 **Day 16** | Insert Dashes [My Solution](https://scrimba.com/scrim/co97a421e8bb1299d3824762d)
+
+**Day 17** | Different Symbols Naive [My Solution](https://scrimba.com/scrim/co31b41babe525dddfba53a50)
