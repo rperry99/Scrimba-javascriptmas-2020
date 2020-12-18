@@ -34,3 +34,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 16** | Insert Dashes [My Solution](https://scrimba.com/scrim/co97a421e8bb1299d3824762d)
 
 **Day 17** | Different Symbols Naive [My Solution](https://scrimba.com/scrim/co31b41babe525dddfba53a50)
+
+**Day 18** | Array Previous Less [My Solution](https://scrimba.com/scrim/co3fd4e9897b3068093d6f6e8)
