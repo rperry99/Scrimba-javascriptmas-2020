@@ -36,3 +36,5 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 **Day 17** | Different Symbols Naive [My Solution](https://scrimba.com/scrim/co31b41babe525dddfba53a50)
 
 **Day 18** | Array Previous Less [My Solution](https://scrimba.com/scrim/co3fd4e9897b3068093d6f6e8)
+
+**Day 19** | Alphabet Subsequence [My Solution](https://scrimba.com/scrim/coe2c408897fd5653682b0753)
