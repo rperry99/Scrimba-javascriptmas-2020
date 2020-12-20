@@ -77,3 +77,7 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 ## Day 19 | Alphabet Subsequence 
 - Is the given string in alphabetical order and does not contain any duplicates?
 - [My Solution](https://scrimba.com/scrim/coe2c408897fd5653682b0753)
+
+## Day 20 | Domain Type
+- Given a list of URLs, return what the domain type is. 
+- [My Solution](https://scrimba.com/scrim/co7f8490cab8165ea77282cbc)
