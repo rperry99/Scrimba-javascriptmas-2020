@@ -81,3 +81,7 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 ## Day 20 | Domain Type
 - Given a list of URLs, return what the domain type is. 
 - [My Solution](https://scrimba.com/scrim/co7f8490cab8165ea77282cbc)
+
+## Day 21 | Sum of Two
+- Given two arrays and an integer, is there a combination between the two arrays where when added together, you get the given integer?
+- [My Solution](https://scrimba.com/scrim/cof574bc9b50eec7eff86f061)
