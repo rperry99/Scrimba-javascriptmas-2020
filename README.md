@@ -85,3 +85,7 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 ## Day 21 | Sum of Two
 - Given two arrays and an integer, is there a combination between the two arrays where when added together, you get the given integer?
 - [My Solution](https://scrimba.com/scrim/cof574bc9b50eec7eff86f061)
+
+## Day 22 | Extract Matrix Column
+- Given an array of arrays and a column, extract the numbers in the given column into their own array.
+- [My Solution](https://scrimba.com/scrim/co3ba431dbcd9971bc041115d)
