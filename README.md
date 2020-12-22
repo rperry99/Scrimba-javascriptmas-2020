@@ -1,7 +1,7 @@
 # JavaScriptmas - 2020
 This is all of the projects I have completed for the 2020 JavaScriptmas advent calendar from Scrimba.
 
-## Day 1| Candies 
+## Day 1 | Candies 
 - How many candies does each kid get so each kid gets the same number of candies?
 - [My Solution](https://scrimba.com/learn/adventcalendar/note-at-1-07-coef7482c8354a9ff2f72de32)
 
