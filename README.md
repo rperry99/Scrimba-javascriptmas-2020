@@ -89,3 +89,7 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 ## Day 22 | Extract Matrix Column
 - Given an array of arrays and a column, extract the numbers in the given column into their own array.
 - [My Solution](https://scrimba.com/scrim/co3ba431dbcd9971bc041115d)
+
+## Day 23 | Social Media Input 
+- Basically create a tweet creator. For JavaScriptmas, I only had to update the character count and disable the button when there are over the allowed limit. I also made the tweet button work. You can send a tweet through this app.
+- [My Solution](https://t.co/QZ5ZKyVtNb?amp=1)
