@@ -1,7 +1,7 @@
 # JavaScriptmas - 2020
 This is all of the projects I have completed for the 2020 JavaScriptmas advent calendar from Scrimba.
 
-I had a lot of fun with this coding advent calendar! I have tried to do others in the past, but they always ended up being way too hard. I think this JavaScriptmas advent from Scrimba was perfect. It was a lot of fun and I had a lot of fun doing it. I never thought any of the challenges were so hard either that I just wanted to give up on them. I particularly enjoyed the ones for Day 8 (Roll the Dice), Day 15 (JavaScript Carousel), and Day 24 (Test Your Agility). I thought making these little apps work was a lot of fun. 
+I had a lot of fun with this coding advent calendar! I have tried to do others in the past, but they always ended up being way too hard. I think this JavaScriptmas advent from Scrimba was perfect. It was a lot of fun and I had a lot of fun doing it. I never thought any of the challenges were so hard either that I just wanted to give up on them. I particularly enjoyed the ones for Day 8 (Roll the Dice), [Day 15 (JavaScript Carousel)](https://github.com/rperry99/Scrimba-javascriptmas-2020/blob/main/README.md#day-15--javascript-carousel), and Day 24 (Test Your Agility). I thought making these little apps work was a lot of fun. 
 
 Doing these challenges I also got to use some JavaScrip features I don't always get to use. `Set()` and `Math.abs()` for example. It's nice to have a challenge like this where you can ue some of the tools in JavaScript that you do not normally get to use. 
 
