@@ -93,3 +93,12 @@ This is all of the projects I have completed for the 2020 JavaScriptmas advent c
 ## Day 23 | Social Media Input 
 - Basically create a tweet creator. For JavaScriptmas, I only had to update the character count and disable the button when there are over the allowed limit. I also made the tweet button work. You can send a tweet through this app.
 - [My Solution](https://t.co/QZ5ZKyVtNb?amp=1)
+
+## Day 24 | Test Your Agility
+- Create an app where you have to stop the number at a specific number to win!
+- [My Solution](https://scrimba.com/scrim/coc0941c68f7b99accf8a76f3)
+
+---
+
+I had a lot of fun with this coding advent calendar! I have tried to do others in the past, but they always ended up being way too hard. I think this JavaScriptmas advent from Scrimba was perfect. It was a lot of fun and I had a lot of fun doing it. I never thought any of the challenges were so hard either that I just wanted to give up on them. I particularly enjoyed the ones for Day 8 (Roll the Dice), Day 15 (JavaScript Carousel), and Day 24 (Test Your Agility). I thought making these little apps work was a lot of fun. 
+Doing these challenges I also got to use some JavaScrip features I don't always get to use. `Set()` and `Math.abs()` for example. It's nice to have a challenge like this where you can ue some of the tools in JavaScript that you do not normally get to use. 
